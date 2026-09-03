@@ -2,7 +2,7 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
-:root{
+:root {
   --font-family: 'IBM Plex Mono';
   --font-weight: 700;
   --another-width: 400;

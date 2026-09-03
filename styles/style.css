@@ -20,7 +20,7 @@
   padding: 10px;
 }
 
-.header__REC  {
+.header__REC {
   font-family: var(--font-family), sans-serif;
   font-weight: var(--another-weight);
   font-size: 18px;
@@ -288,15 +288,15 @@
     top: 20px;
     right: 20px;
   }
-  .decorated-zone::after  {
+  .decorated-zone::after {
     bottom: 20px;
     left: 20px;
   }
-  .header__REC  {
+  .header__REC {
     top: 20px;
     right: 29px;
   }
-  .header__title  {
+  .header__title {
     align-self: center;
     margin-inline-start: -20px;
     font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
